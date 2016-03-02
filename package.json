@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pomax/bezierinfo.git"
+    "url": "git+https://github.com/hite/BezierInfo-2-ZH_CN.git"
   },
   "keywords": [
     "Bezier",
@@ -23,12 +23,12 @@
     "article",
     "primer"
   ],
-  "author": "Pomax",
+  "author": "hite",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/Pomax/bezierinfo/issues"
+    "url": "https://github.com/hite/BezierInfo-2-ZH_CN/issues"
   },
-  "homepage": "https://github.com/Pomax/bezierinfo#readme",
+  "homepage": "https://github.com/hite/BezierInfo-2-ZH_CN#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.3.17",
